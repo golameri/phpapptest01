@@ -1,0 +1,7 @@
+{
+    "require": {
+        "yiisoft/yii": "^1.1",
+        "fortawesome/font-awesome": "3.2.1",
+        "twbs/bootstrap": "2.3.2"
+    }
+}
